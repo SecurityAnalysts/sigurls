@@ -4,6 +4,8 @@
 
 sigurls is a reconnaissance tool, it fetches URLs from **AlienVault's OTX**, **Common Crawl**, **URLScan**, **Github** and the **Wayback Machine**.
 
+**DiSCLAIMER:** fetching urls from github is a bit slow.
+
 ## Resources
 
 * [Usage](#usage)
