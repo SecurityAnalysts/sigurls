@@ -107,7 +107,7 @@ func main() {
 		fmt.Println("[", au.BrightBlue("INF"), "] fetching urls for", au.Underline(options.Domain).Bold())
 
 		if options.IncludeSubs {
-			fmt.Println("[", au.BrightBlue("INF"), "] -subs used: includes subdomains' urls")
+			fmt.Println("[", au.BrightBlue("INF"), "] -iS used: includes subdomains' urls")
 		}
 
 		fmt.Println("")

@@ -1,6 +1,6 @@
 # sigurls
 
-![made with go](https://img.shields.io/badge/made%20with-Go-0040ff.svg) ![maintenance](https://img.shields.io/badge/maintained%3F-yes-0040ff.svg) [![open issues](https://img.shields.io/github/issues-raw/drsigned/sigurls.svg?style=flat&color=0040ff)](https://github.com/drsigned/sigurls/issues?q=is:issue+is:open) [![closed issues](https://img.shields.io/github/issues-closed-raw/drsigned/sigurls.svg?style=flat&color=0040ff)](https://github.com/drsigned/sigurls/issues?q=is:issue+is:closed) [![license](https://img.shields.io/badge/license-MIT-gray.svg?colorB=0040FF)](https://github.com/drsigned/sigurls/blob/master/LICENSE) [![twitter](https://img.shields.io/badge/twitter-@drsigned-0040ff.svg)](https://twitter.com/drsigned)
+[![release](https://img.shields.io/github/release/drsigned/sigurls?style=flat&color=0040ff)](https://github.com/drsigned/sigurls/releases) ![maintenance](https://img.shields.io/badge/maintained%3F-yes-0040ff.svg) [![open issues](https://img.shields.io/github/issues-raw/drsigned/sigurls.svg?style=flat&color=0040ff)](https://github.com/drsigned/sigurls/issues?q=is:issue+is:open) [![closed issues](https://img.shields.io/github/issues-closed-raw/drsigned/sigurls.svg?style=flat&color=0040ff)](https://github.com/drsigned/sigurls/issues?q=is:issue+is:closed) [![license](https://img.shields.io/badge/license-MIT-gray.svg?colorB=0040FF)](https://github.com/drsigned/sigurls/blob/master/LICENSE) [![twitter](https://img.shields.io/badge/twitter-@drsigned-0040ff.svg)](https://twitter.com/drsigned)
 
 sigurls is a reconnaissance tool, it fetches URLs from **AlienVault's OTX**, **Common Crawl**, **URLScan**, **Github** and the **Wayback Machine**.
 
@@ -68,7 +68,7 @@ sigurls will work after [installation](#installation). However, to configure sig
 Example:
 
 ```yaml
-version: 1.3.0
+version: 1.3.1
 sources:
     - commoncrawl
     - github
